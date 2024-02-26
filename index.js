@@ -32,7 +32,7 @@ const contacts = [
 //
 // Пример элементов в возвращаемом массиве:
 // [
-// 	{ id: 1, phone: '79990000001', name: 'Oleg', last_name: 'Naumov' },
+// 	{ id: 1, phone: '79990000001', name: 'German', last_name: 'Smurov' },
 //  ...,
 //  { error: 'Contact phone is not defined' }
 // ]

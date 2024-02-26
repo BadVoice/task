@@ -17,10 +17,10 @@ const createInDb = async (phone, contactData = {}) => {
 };
 
 const contacts = [
-  { phone: "79990000001", name: "Oleg", last_name: "Naumov" },
+  { phone: "79990000001", name: "German", last_name: "Smurov" },
   { phone: "79990000002", name: "Nikita" },
   { phone: "79990000003", city: "Moscow" },
-  { phone: "79990000001", name: "Oleg", last_name: "Naumov" },
+  { phone: "79990000001", name: "German", last_name: "Smurov" },
   { phone: null, city: "St. Petersburg" },
   { phone: "79990000004" },
 ];
